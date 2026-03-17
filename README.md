@@ -1,4 +1,4 @@
-# Laporan Pratikum : Framework PHP ( codelgniter4 )
+# Laporan Pratikum 1 : Framework PHP ( codelgniter4 )
 
 Repository ini dibuat untuk memenuhi tugas mata kuliah ***Pemograman Web 2***. Fokus utama pratikum ini adalah instalasi, konfigurasi dasar, dan implementasi konsep MVC pada Framework Codelgniter 4.  
 
